@@ -4,19 +4,245 @@ title: Lecture Notes
 uid: 3ac189fe-db3a-6db2-cbe5-2664a8eeab94
 ---
 
-| LEC # | Topics | Files |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction and Overview {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture1)) |
-| 2-3 |  {{< br >}}{{< br >}} Origin of the Process {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture23)) |
-| 4-5 |  {{< br >}}{{< br >}} Individual Contributions {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture45)) |
-| 6-7 |  {{< br >}}{{< br >}} Technical Communication {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture67)) |
-| 8-9 |  {{< br >}}{{< br >}} Cross-Functionality {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture89)) |
-| 10-11 |  {{< br >}}{{< br >}} Geographic Dispersion {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture1011)) |
-| 12-13 |  {{< br >}}{{< br >}} Intra-Organizational Networks {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture1213)) |
-| 14-15 |  {{< br >}}{{< br >}} Inter-Organizational Networks {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture1415)) |
-| 16-17 |  {{< br >}}{{< br >}} Organizational Features {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture1617)) |
-| 18-19 |  {{< br >}}{{< br >}} Organizational Learning {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture1819)) |
-| 20-21 |  {{< br >}}{{< br >}} Market Changes {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture2021)) |
-| 22 |  {{< br >}}{{< br >}} Industry Variability {{< br >}}{{< br >}}  | &nbsp; |
-| 23-24 |  {{< br >}}{{< br >}} Standards, Patents, & Open Source {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lecture2324)) |
-| 25 |  {{< br >}}{{< br >}} Course Wrap-up {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and Overview
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Origin of the Process
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual Contributions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture45))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Technical Communication
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture67))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cross-Functionality
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture89))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Geographic Dispersion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture1011))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intra-Organizational Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture1213))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Inter-Organizational Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture1415))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Organizational Features
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture1617))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Organizational Learning
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture1819))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Market Changes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture2021))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Industry Variability
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Standards, Patents, & Open Source
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture2324))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Wrap-up
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

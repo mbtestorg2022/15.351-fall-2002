@@ -4,19 +4,245 @@ title: Assignments
 uid: 976d0781-b151-19cc-562d-aa81949f8937
 ---
 
-| LEC # | Topics | Files |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction and Overview {{< br >}}{{< br >}}  | Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1)) |
-| 2-3 |  {{< br >}}{{< br >}} Origin of the Process {{< br >}}{{< br >}}  | Assignment 2 ([PDF]({{< baseurl >}}/resources/assignment23)) |
-| 4-5 |  {{< br >}}{{< br >}} Individual Contributions {{< br >}}{{< br >}}  | Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment45)) |
-| 6-7 |  {{< br >}}{{< br >}} Technical Communication {{< br >}}{{< br >}}  | Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment6_7)) |
-| 8-9 |  {{< br >}}{{< br >}} Cross-Functionality {{< br >}}{{< br >}}  | Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment89)) |
-| 10-11 |  {{< br >}}{{< br >}} Geographic Dispersion {{< br >}}{{< br >}}  | Assignment 6 ([PDF]({{< baseurl >}}/resources/assignment1011)) |
-| 12-13 |  {{< br >}}{{< br >}} Intra-Organizational Networks {{< br >}}{{< br >}}  | Assignment 7 ([PDF]({{< baseurl >}}/resources/assignment12_13)) |
-| 14-15 |  {{< br >}}{{< br >}} Inter-Organizational Networks {{< br >}}{{< br >}}  | Assignment 8 ([PDF]({{< baseurl >}}/resources/assignment1415)) |
-| 16-17 |  {{< br >}}{{< br >}} Organizational Features {{< br >}}{{< br >}}  | Assignment 9 ([PDF]({{< baseurl >}}/resources/assignment1617)) |
-| 18-19 |  {{< br >}}{{< br >}} Organizational Learning {{< br >}}{{< br >}}  | Assignment 10 ([PDF]({{< baseurl >}}/resources/assignment1819)) |
-| 20-21 |  {{< br >}}{{< br >}} Market Changes {{< br >}}{{< br >}}  | Assignment 11 ([PDF]({{< baseurl >}}/resources/assignment2021)) |
-| 22 |  {{< br >}}{{< br >}} Industry Variability {{< br >}}{{< br >}}  | Assignment 12 |
-| 23-24 |  {{< br >}}{{< br >}} Standards, Patents, & Open Source {{< br >}}{{< br >}}  | Assignment 13 ([PDF]({{< baseurl >}}/resources/assignment2324)) |
-| 25 |  {{< br >}}{{< br >}} Course Wrap-up {{< br >}}{{< br >}}  | Final Paper Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and Overview
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Origin of the Process
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 ([PDF]({{< baseurl >}}/resources/assignment23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual Contributions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment45))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Technical Communication
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment6_7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cross-Functionality
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment89))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Geographic Dispersion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 ([PDF]({{< baseurl >}}/resources/assignment1011))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intra-Organizational Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 ([PDF]({{< baseurl >}}/resources/assignment12_13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Inter-Organizational Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 ([PDF]({{< baseurl >}}/resources/assignment1415))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Organizational Features
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 ([PDF]({{< baseurl >}}/resources/assignment1617))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Organizational Learning
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 ([PDF]({{< baseurl >}}/resources/assignment1819))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Market Changes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 11 ([PDF]({{< baseurl >}}/resources/assignment2021))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Industry Variability
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Standards, Patents, & Open Source
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 13 ([PDF]({{< baseurl >}}/resources/assignment2324))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Wrap-up
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
